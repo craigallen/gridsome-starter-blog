@@ -13,8 +13,8 @@
 
 		<p class="author__links">
 			<a href="https://blog.craigallen.dev">Blog</a>
-			<a href="//twitter.com/craigger">Twitter</a>
-			<a href="//github.com/craigallen">GitHub</a>
+			<a href="https://github.com/craigallen">GitHub</a>
+			<a href="https://twitter.com/craigger">Twitter</a>
 		</p>
 
 	</div>
